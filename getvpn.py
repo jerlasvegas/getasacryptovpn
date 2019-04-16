@@ -3,7 +3,6 @@
 from ciscoasa import ciscoASA
 import re
 from pprint import PrettyPrinter
-import creds
 
 def main():
 
