@@ -1,6 +1,6 @@
 # getasacryptovpn
 
-    GetASACryptoVPN - Retrieves VPN configuration from Firewall for IPSEC Tunnels
+    GetASACryptoVPN - Retrieves VPN configuration from Cisco ASA Firewall for IPSEC Tunnels
     Copyright (C) 2019  Jer Peterson
 
     This program is free software: you can redistribute it and/or modify
@@ -16,7 +16,7 @@
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
     
-Retrieves VPN configuration from Firewall for IPSEC Tunnels
+Retrieves VPN configuration from Cisco ASA Firewall for IPSEC Tunnels
 
 Modify getvpn.py and enter the IP of the Firewall you want to examine (src_fw)
 
